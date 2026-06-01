@@ -2,7 +2,7 @@ package Array;
 
 import java.util.Scanner;
 
-class RemoveDuplicatesSorted {
+ public class RemoveDuplicatesSorted {
 
     public static void main(String[] args) {
 
